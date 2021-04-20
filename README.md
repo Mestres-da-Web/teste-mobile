@@ -11,7 +11,7 @@ Atualmente contamos com cerca de 10 desenvolvedores entre juniors, plenos, mobil
 ### Descrição 📰
 Para iniciar o desenvolvimento do teste, baixe o XD do design e utilize a api da marvel para o consumo dos dados disponíveis (o que não possuir na api, pode deixar estático).
 
-![Image background](https://raw.githubusercontent.com/Mestres-da-Web/desafio-frontend-jr/main/3.png?token=AG4X3CZ42R7CHRAU6OIMWHLANXPJE)
+![Image background](https://github.com/Mestres-da-Web/teste-mobile/blob/main/5.png?raw=true)
 
 ### Arquivos
 - [Design](https://drive.google.com/file/d/1YOmcQfJEPPIU04D7QX8Dd8YLdV9u9PRa/view?usp=sharing) 
