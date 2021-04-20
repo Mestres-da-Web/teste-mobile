@@ -46,7 +46,6 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design e utilize a api da
 - Separação dos componentes ✨
 - Uso dos hooks ✨
 - Fidelidade ao design ✨
-- Performance do site ✨
 
 ### Próximos passos
 1. Enviar o link do repositório para: yukihiro@mestresdaweb.com.br;
