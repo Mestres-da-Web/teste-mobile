@@ -20,8 +20,8 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design.
 
 ### Requisitos Técnicos 😁
 - React Native ✔
+- Expo ✔
 - TypeScript ✔
-- Redux hooks ✔
 - Animação ✔
 - Styled Components ✔
 - Axios ✔
@@ -29,7 +29,6 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design.
 - Organização do projeto ✔
 - Código limpo ✔
 - Documentação do projeto ✔
-- Banco de dados (Sua prefêrencia) ✔
 
 ### Requisitos comportamentais
 - Aprendizado continuo;
@@ -38,7 +37,11 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design.
 - Visão sistêmica.
 
 ### Diferenciais 💖
-- Expo API.
+- Tanstack Query (React Query)
+- React Native Reanimated
+- React Native Gesture Handler
+- Git Flow
+- Firebase
 
 ### O que será avaliado 🐱‍👤
 - Organização do código ✨
